@@ -2,7 +2,7 @@
 
 The purpose of the repository “kickstarter-analysis” is to store the files used in preforming analysis on Kickstarter data to uncover trends.  I will be using this README.md file to help Carleton people using my GitHub to understand what is here and where to find it.
 
-##Files in the repository
+## Files in the repository
 
 I have created a resource folder to hold the image files that we be in the Challenge report.
 
